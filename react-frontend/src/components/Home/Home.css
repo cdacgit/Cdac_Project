@@ -1,0 +1,33 @@
+.home {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: 0;
+    margin-top: 50px;
+    margin-bottom:2rem;
+    width: 200px;
+    height: 400px;
+    margin-left: 80%;
+    margin-top: 4%;
+}
+.home .home1 {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: 0;
+    margin-top: 30px;
+    margin-bottom: 1rem;
+    width: 200px;
+    height: 100px;
+    background-color:#007ae1;
+    border-radius: 10px;
+}
+
+.home .home1 but{
+    font-size: 25px;
+    background:none;
+    border: none;
+    color: #fff;
+    margin-top: 28px;
+    margin-left: 30px;
+}
